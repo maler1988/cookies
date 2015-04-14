@@ -9,6 +9,7 @@
 
 <div id="container">
     <h1>Hello, world!</h1>
+    <p>Это учебный сайт на Codeignitor</p>
 </div>
 
 </body>
