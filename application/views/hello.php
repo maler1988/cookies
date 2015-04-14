@@ -10,6 +10,7 @@
 <div id="container">
     <h1>Hello, world!</h1>
     <p>Это учебный сайт на Codeignitor</p>
+    <? echo  $_SERVER["HTTP_HOST"]; ?>
 </div>
 
 </body>
