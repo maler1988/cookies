@@ -7,10 +7,10 @@
 </head>
 <body>
 
-<div id="container" >
-    <h1>Плюшки</h1>
-    <p>Плюшки - это моя небольшая база знаний в которой содержаться "плюшки" - часто используемые куски код
-    готовые решения, разбор проблемных задач, инструкции по использованию git, putty, .htaccess и т.п.</p>
+<div id="container">
+    <h1>Hello, world!</h1>
+    <p>Это учебный сайт на Codeignitor</p>
+    <? echo  "http host: ".$_SERVER["HTTP_HOST"]; ?>
 </div>
 
 </body>
