@@ -11,6 +11,7 @@
     <h1>Hello, world!</h1>
     <p>Это учебный сайт на Codeignitor</p>
     <? echo  "http host: ".$_SERVER["HTTP_HOST"]; ?>
+	<p>Проверка работоспособности GIT PANEL</p>
 </div>
 
 </body>
