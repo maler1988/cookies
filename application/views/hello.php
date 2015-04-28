@@ -12,6 +12,6 @@
     <p>Это учебный сайт на Codeignitor</p>
     <? echo  "http host: ".$_SERVER["HTTP_HOST"]; ?>
 </div>
-
+<p>тест</p>
 </body>
 </html>
